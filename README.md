@@ -1,4 +1,5 @@
 # My Social Media Account 
+<hr />
 
 <b>
 Instagram : @rasyasukait<br>
@@ -9,6 +10,7 @@ Facebook : Rasya Cifa Fitra Pratama<br>
 Tiktok : tiktok.com/@rassdevhtml_
 
 # My Website
+<hr />
 Web 1 : https://rass-informatika.blogspot.com<br>
 Web 2 : https://rassdeveloper-website.netlify.app
 </b>
